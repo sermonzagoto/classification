@@ -10,3 +10,6 @@ Dataset yang digunakan adalah dataset winequalityN.cvs. Anda bisa mendapatkan da
 
 # ⚙️ Instalasi
 Untuk menggunakan ekstensi **.ipynb** project saya, pastikan perangkat anda baik itu Laptop atau PC sudah terinstall jupyter notebook. Kebetulan saya menggunakan Google Collaboratory untuk mengerjakan project ini
+
+# ⚖️ Lisensi
+Karya ini sudah memiliki lisensi MIT License https://opensource.org/licenses/MIT. Untuk mengetahui lebih lanjut, silahkan kunjungi https://opensource.org/licenses/MIT
