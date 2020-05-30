@@ -1,6 +1,6 @@
 # Project Machine Learning
 Project ini berisi tentang hasil pengerjaan saya mengenai Dataset menggunakan Algoritma Supervised Machine Learning yaitu Decision Tree.
-Untuk dapat mengerjakan projec ini pastikan anda memahami Python Programming dan memiliki pengetahuan tentang Supervised and Unsupervised Machine Learning Alogirthms. Beberapa contoh project Machine Learning dapat Anda kerjakan dengan melihat website berikut https://data-flair.training/blogs/machine-learning-project-ideas/
+Untuk dapat mengerjakan project ini pastikan anda memahami Python Programming dan memiliki pengetahuan tentang Supervised and Unsupervised Machine Learning Alogirthms. Kali ini saya akan membangun model untuk klasifikasi dengan studi kasus Wine dengan memanfaatkan Algoritma Decision Tree. Beberapa contoh project Machine Learning dapat Anda kerjakan dengan melihat website berikut https://data-flair.training/blogs/machine-learning-project-ideas/
 
 Untuk mengunduh hasil project saya di folder ini, Anda dapat menjalankan perintah berikut di terminal Anda:
 git clone https://github.com/sermonzagoto/classification.git
